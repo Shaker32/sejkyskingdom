@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Prvni() {
+export default function Druhy() {
   return (
     <>
-    <h1>cus</h1>
+    <h1>cus2</h1>
     </>
   )
 }
